@@ -1,0 +1,19 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.user-card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.loader {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+/* Add any additional custom styling for the App component here */

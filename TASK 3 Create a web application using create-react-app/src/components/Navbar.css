@@ -1,0 +1,33 @@
+/* src/components/Navbar.css */
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .navbar h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .navbar button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .navbar button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  /* Add any additional custom styling for the Navbar component here */
+  
