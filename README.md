@@ -12,6 +12,17 @@ This task is to determine understanding of HTML, CSS and Javascript
 <hr>
 
 
+**TASK 2**
+
+Create a web application using create-react-app
+
+<a href ="https://stunning-rabanadas-93676e.netlify.app/"> Live Link 
+
+
+
+
+<hr>
+
 **TASK 3**
 
 CREATE A REGISTRATION FORM WHOSE DATA DISPLAY IN SAME PAGE
