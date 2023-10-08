@@ -16,7 +16,9 @@ This task is to determine understanding of HTML, CSS and Javascript
 
 Create a web application using create-react-app
 
-<a href ="https://stunning-rabanadas-93676e.netlify.app/"> Live Link 
+
+
+<a href ="https://user-card-app.netlify.app/"> Live Link 
 
 
 
